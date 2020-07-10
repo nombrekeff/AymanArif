@@ -26,6 +26,8 @@
   - LinkedIn 
   
 
+![Ayman's github stats](https://github-readme-stats.vercel.app/api?username=AymanArif)
+
 # Projects I am working on
 
 1. [Learning Go by building an end-to-end cloud native microservice.](https://github.com/AymanArif/golang-microservices)
