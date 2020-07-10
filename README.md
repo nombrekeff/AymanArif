@@ -1,5 +1,17 @@
 # Hi there 👋
 
+<h3 align="center">
+  Follow me here
+</h3>
+<p align="center">
+  <a href="https://twitter.com/@aymanace97">
+    <img src="https://img.shields.io/twitter/follow/aymanace97?label=Follow%20Me&style=social" alt="Follow @aymanace97" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayman-arif-patel-300683127">
+    <img src="https://img.shields.io/badge/-Ayman Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayman-arif-patel-300683127" alt="Follow @aymanace97" />
+  </a>
+</p>
+
 - 🔭 I’m currently working on 
   - Golang
   - Java
